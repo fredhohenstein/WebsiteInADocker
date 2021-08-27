@@ -6,3 +6,4 @@ COPY IMG_20180524_182601.png /usr/share/nginx/html
 COPY plaatje3.jpg /usr/share/nginx/html
 COPY plaatje4.jpg /usr/share/nginx/html
 COPY plaatje5.jpg /usr/share/nginx/html
+COPY plaatje6.jpg /usr/share/nginx/html
