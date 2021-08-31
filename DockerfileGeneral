@@ -1,7 +1,7 @@
 FROM nginx
 
 RUN apt-get update
-RUN apt-get upgrade
+RUN apt-get upgrade -Y
 
 COPY index.html /usr/share/nginx/html
 COPY FredjemetMuts.png /usr/share/nginx/html
