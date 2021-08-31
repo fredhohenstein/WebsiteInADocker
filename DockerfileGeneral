@@ -1,6 +1,6 @@
 FROM nginx
 
-RUN apt-get update && RUN apt-get full-update && apt-get install -y iputils-ping
+RUN apt-get update && apt-get full-update && apt-get install -y iputils-ping
 
 COPY index.html /usr/share/nginx/html
 COPY FredjemetMuts.png /usr/share/nginx/html
