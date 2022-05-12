@@ -11,3 +11,4 @@ COPY plaatje4.jpg /usr/share/nginx/html
 COPY plaatje5.jpg /usr/share/nginx/html
 COPY plaatje6.jpg /usr/share/nginx/html
 COPY WhatsApp-Image-2021-08-28.jpg /usr/share/nginx/html
+COPY voorbeeld-flow-Jenkins-hub-docker-azure-K8.JPG /usr/share/nginx/html
